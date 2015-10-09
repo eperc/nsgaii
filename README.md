@@ -1,10 +1,11 @@
-# nsgaii
+﻿# nsgaii
 Projet de NSGA II
 
-Commandes de Git:
+#Commandes de Git:
 
-//Dans le master
- git checkout -b xxxxxx  // créer et entrer dans une branche
+Dans le master
+
+git checkout -b xxxxxx  // créer et entrer dans une branche
 git status // afficher les fichiers modifiés
 git add nom_fichier.cpp // prendre en compte la modification du fichier
 git rm nom_fichier.cpp // prendre en compte la suppression du fichier
