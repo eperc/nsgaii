@@ -1,6 +1,15 @@
 ﻿# nsgaii
 Projet de NSGA II
 
+#Git sans commande
+En fait il existe un Tutorial qui est crée par défaut dans github (programme) et qui montre comment l'utiliser sans utiliser
+les commandes. C'est beaucoup plus simple je trouve.
+ - Créer une nouvelle branch pour ne pas travailler sur le master (en haut à gauche)
+ - Faire des modification et les commits correspondants
+ - Publish pour synchroniser avec sa version en ligne
+ - Faire un Pull request pour proposer ses commits sur la version commune (en haut à droite)
+
+
 #Commandes de Git:
 
 Dans le master
